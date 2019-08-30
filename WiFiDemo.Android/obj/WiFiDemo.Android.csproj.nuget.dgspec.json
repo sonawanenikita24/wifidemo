@@ -1,0 +1,146 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/bridgelabz/Projects/WiFiDemo/WiFiDemo.Android/WiFiDemo.Android.csproj": {}
+  },
+  "projects": {
+    "/Users/bridgelabz/Projects/WiFiDemo/WiFiDemo.Android/WiFiDemo.Android.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/bridgelabz/Projects/WiFiDemo/WiFiDemo.Android/WiFiDemo.Android.csproj",
+        "projectName": "WiFiDemo.Android",
+        "projectPath": "/Users/bridgelabz/Projects/WiFiDemo/WiFiDemo.Android/WiFiDemo.Android.csproj",
+        "packagesPath": "/Users/bridgelabz/.nuget/packages/",
+        "outputPath": "/Users/bridgelabz/Projects/WiFiDemo/WiFiDemo.Android/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/bridgelabz/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid90"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid90": {
+            "projectReferences": {
+              "/Users/bridgelabz/Projects/WiFiDemo/WiFiDemo/WiFiDemo.csproj": {
+                "projectPath": "/Users/bridgelabz/Projects/WiFiDemo/WiFiDemo/WiFiDemo.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid90": {
+          "dependencies": {
+            "Xam.Plugin.Connectivity": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "Xamarin.Android.Support.Core.Utils": {
+              "target": "Package",
+              "version": "[28.0.0.1, )"
+            },
+            "Xamarin.Android.Support.CustomTabs": {
+              "target": "Package",
+              "version": "[28.0.0.1, )"
+            },
+            "Xamarin.Android.Support.Design": {
+              "target": "Package",
+              "version": "[28.0.0.1, )"
+            },
+            "Xamarin.Android.Support.v4": {
+              "target": "Package",
+              "version": "[28.0.0.1, )"
+            },
+            "Xamarin.Android.Support.v7.AppCompat": {
+              "target": "Package",
+              "version": "[28.0.0.1, )"
+            },
+            "Xamarin.Android.Support.v7.CardView": {
+              "target": "Package",
+              "version": "[28.0.0.1, )"
+            },
+            "Xamarin.Android.Support.v7.MediaRouter": {
+              "target": "Package",
+              "version": "[28.0.0.1, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.1.0.555618, )"
+            }
+          }
+        }
+      }
+    },
+    "/Users/bridgelabz/Projects/WiFiDemo/WiFiDemo/WiFiDemo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/bridgelabz/Projects/WiFiDemo/WiFiDemo/WiFiDemo.csproj",
+        "projectName": "WiFiDemo",
+        "projectPath": "/Users/bridgelabz/Projects/WiFiDemo/WiFiDemo/WiFiDemo.csproj",
+        "packagesPath": "/Users/bridgelabz/.nuget/packages/",
+        "outputPath": "/Users/bridgelabz/Projects/WiFiDemo/WiFiDemo/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/bridgelabz/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Xam.Plugin.Connectivity": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.1.0.555618, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

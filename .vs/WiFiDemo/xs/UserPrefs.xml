@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{8FB2ED74-E07C-45D5-AFC0-01F8A4337427}|Default">
+  <MonoDevelop.Ide.ItemProperties.WiFiDemo.Android AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WiFiDemo.Android/MainActivity.cs">
+    <Files>
+      <File FileName="WiFiDemo/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="WiFiDemo/MainPage.xaml" />
+      <File FileName="WiFiDemo/MyPage.cs" />
+      <File FileName="WiFiDemo/Page1.xaml" />
+      <File FileName="WiFiDemo/Page1.xaml.cs" />
+      <File FileName="WiFiDemo/App.xaml" />
+      <File FileName="WiFiDemo/App.xaml.cs" />
+      <File FileName="WiFiDemo.Android/MainActivity.cs" Line="71" Column="12" />
+      <File FileName="WiFiDemo.Android/Resources/layout/Main.xml" />
+      <File FileName="WiFiDemo.Android/Resources/layout/Layout.axml" />
+      <File FileName="WiFiDemo.Android/Resources/layout/MainLayout.axml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WiFiDemo" expanded="True">
+            <Node name="WiFiDemo" expanded="True" />
+            <Node name="WiFiDemo.Android" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="layout" expanded="True">
+                  <Node name="MainLayout.axml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

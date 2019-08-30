@@ -1,0 +1,12 @@
+/Users/bridgelabz/Projects/WiFiDemo/WiFiDemo/bin/Debug/netstandard2.0/WiFiDemo.deps.json
+/Users/bridgelabz/Projects/WiFiDemo/WiFiDemo/bin/Debug/netstandard2.0/WiFiDemo.dll
+/Users/bridgelabz/Projects/WiFiDemo/WiFiDemo/bin/Debug/netstandard2.0/WiFiDemo.pdb
+/Users/bridgelabz/Projects/WiFiDemo/WiFiDemo/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/bridgelabz/Projects/WiFiDemo/WiFiDemo/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/bridgelabz/Projects/WiFiDemo/WiFiDemo/obj/Debug/netstandard2.0/Page1.xaml.g.cs
+/Users/bridgelabz/Projects/WiFiDemo/WiFiDemo/obj/Debug/netstandard2.0/WiFiDemo.csproj.CoreCompileInputs.cache
+/Users/bridgelabz/Projects/WiFiDemo/WiFiDemo/obj/Debug/netstandard2.0/WiFiDemo.AssemblyInfoInputs.cache
+/Users/bridgelabz/Projects/WiFiDemo/WiFiDemo/obj/Debug/netstandard2.0/WiFiDemo.AssemblyInfo.cs
+/Users/bridgelabz/Projects/WiFiDemo/WiFiDemo/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/bridgelabz/Projects/WiFiDemo/WiFiDemo/obj/Debug/netstandard2.0/WiFiDemo.dll
+/Users/bridgelabz/Projects/WiFiDemo/WiFiDemo/obj/Debug/netstandard2.0/WiFiDemo.pdb
